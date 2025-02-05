@@ -19,6 +19,7 @@ cd course-selling-backend
 ### 2. Install dependencies
 ```sh
 npm install
+npm install mongoose express jsonwebtoken zod bcrypt
 ```
 
 ### 3. Set up environment variables
